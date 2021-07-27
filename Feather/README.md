@@ -1,6 +1,8 @@
 # OMP
 Code written for NSF-OTIC Ocean Microbial Profiler
 
+This folder contains code for the Feather STM32F405, which is used to monitor the flow/pressure during a sampling event
+
 This repository contains Python/Micropython code for a hardware system comprised of:
   1) Raspberry Pi 3
   2) Pyboard 1.1

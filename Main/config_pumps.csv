@@ -1,0 +1,6 @@
+Pump number,Name,Stroke_vol,Interrupt,Reset,Enable,Dir,Step,Dummy
+1,Dummy,250,X20,X2,Y7,Y3,Y4,X
+2,Pull,250,X21,X2,X6,Y3,Y4,X
+3,Push,250,X1,X2,X22,Y3,Y4,X
+4,Lysis,250,X7,X2,X12,Y3,Y4,X
+5,Seawater,5000,X18,X2,X11,Y3,Y4,X

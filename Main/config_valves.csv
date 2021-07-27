@@ -1,0 +1,4 @@
+Valve,Name,Enable,Control1,Control2,Dummy
+1,Three-way valve,NA,pyb.Pin.cpu.A14,Y8,X
+2,External push valve 1,pyb.Pin.cpu.B4,Y5,Y6,X
+3,External push valve 2,pyb.Pin.cpu.A15,X3,X4,X

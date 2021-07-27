@@ -1,0 +1,1 @@
+import pyb, machineimport  math, sysimport micropythonmicropython.alloc_emergency_exception_buf(100)import MAESTROimport SOLENOIDp1=MAESTRO.Pump(1)p2=MAESTRO.Pump(2)p3=MAESTRO.Pump(3)p4=MAESTRO.Pump(4)p5=MAESTRO.Pump(5)pv1=SOLENOID.Push_Valve(1)pv2=SOLENOID.Push_Valve(2)pyb.delay(500)

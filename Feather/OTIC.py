@@ -1,4 +1,3 @@
-# This contains a list of functions developed for Meldrum's NSF-OTIC project
 import pyb
         
 def buildLogFilename(rtc, logType):
